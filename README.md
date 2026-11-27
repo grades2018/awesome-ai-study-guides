@@ -73,6 +73,7 @@ Plan the structure of a guide before writing or generating it.
 ## Tutors and Practice
 
 - [Khanmigo](https://www.khanmigo.ai/) - Khan Academy's AI tutor that guides students through problems instead of handing out answers.
+- [StudyArena](https://studyarena.com) - Compare three AI explanations for a study question, vote for the most helpful one, and reveal the models with a free account.
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational engine with step-by-step solutions for math and science practice.
 
 ## Formatting and Export
